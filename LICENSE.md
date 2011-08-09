@@ -1,4 +1,4 @@
-css-utils, simple common CSS classes with cross-browser support  
+css-utils, Utility for providing common CSS3 classes and selectors  
 Copyright (C) 2011 Alasdair Mercer
 
 This program is free software: you can redistribute it and/or modify  

@@ -36,6 +36,24 @@
 .right-center-bg { background-position: right center; }
 .right-top-bg { background-position: right top; }
 .scroll-attachment { background-attachment: scroll; }
+/* Background Colors */
+.aqua-bg { background-color: aqua; }
+.black-bg { background-color: black; }
+.blue-bg { background-color: blue; }
+.fuchsia-bg { background-color: fuchsia; }
+.gray-bg { background-color: gray; }
+.green-bg { background-color: green; }
+.lime-bg { background-color: lime; }
+.maroon-bg { background-color: maroon; }
+.navy-bg { background-color: navy; }
+.olive-bg { background-color: olive; }
+.purple-bg { background-color: purple; }
+.red-bg { background-color: red; }
+.silver-bg { background-color: silver }
+.teal-bg { background-color: teal; }
+.transparent-bg { background-color: transparent; }
+.white-bg { background-color: white; }
+.yellow-bg { background-color: yellow; }
 /* Border */
 .dashed-bdr { border-style: dashed; }
 .dotted-bdr { border-style: dotted; }
@@ -66,6 +84,24 @@
 .thin-bdr-left { border-left-width: thin; }
 .thin-bdr-right { border-right-width: thin; }
 .thin-bdr-top { border-top-width: thin; }
+/* Border Colors */
+.aqua-bdr { border-color: aqua; }
+.black-bdr { border-color: black; }
+.blue-bdr { border-color: blue; }
+.fuchsia-bdr { border-color: fuchsia; }
+.gray-bdr { border-color: gray; }
+.green-bdr { border-color: green; }
+.lime-bdr { border-color: lime; }
+.maroon-bdr { border-color: maroon; }
+.navy-bdr { border-color: navy; }
+.olive-bdr { border-color: olive; }
+.purple-bdr { border-color: purple; }
+.red-bdr { border-color: red; }
+.silver-bdr { border-color: silver }
+.teal-bdr { border-color: teal; }
+.transparent-bdr { border-color: transparent; }
+.white-bdr { border-color: white; }
+.yellow-bdr { border-color: yellow; }
 /* Box */
 .border-box-sizing { box-sizing: border-box; }
 .content-box-sizing { box-sizing: content-box; }
@@ -216,6 +252,26 @@
 .solid-out { outline-style: solid; }
 .thick-out { outline-width: thick; }
 .thin-out { outline-width: thin; }
+/* Outline Colors */
+.aqua-out { outline-color: aqua; }
+.black-out { outline-color: black; }
+.blue-out { outline-color: blue; }
+.fuchsia-out { outline-color: fuchsia; }
+.gray-out { outline-color: gray; }
+.green-out { outline-color: green; }
+.invert-out { outline-color: invert; }
+.lime-out { outline-color: lime; }
+.maroon-out { outline-color: maroon; }
+.medium-out { outline-width: medium; }
+.navy-out { outline-color: navy; }
+.olive-out { outline-color: olive; }
+.purple-out { outline-color: purple; }
+.red-out { outline-color: red; }
+.silver-out { outline-color: silver }
+.teal-out { outline-color: teal; }
+.transparent-out { outline-color: transparent; }
+.white-out { outline-color: white; }
+.yellow-out { outline-color: yellow; }
 /* Padding */
 .no-bottom-pad { padding-bottom: 0; }
 .no-horizontal-pad { padding-left: 0; padding-right: 0; }
@@ -259,3 +315,20 @@
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .underline { text-decoration: underline; }
 .uppercase { text-transform: uppercase; }
+/* Text Colors */
+.aqua { color: aqua; }
+.black { color: black; }
+.blue { color: blue; }
+.fuchsia { color: fuchsia; }
+.gray { color: gray; }
+.green { color: green; }
+.lime { color: lime; }
+.maroon { color: maroon; }
+.navy { color: navy; }
+.olive { color: olive; }
+.purple { color: purple; }
+.red { color: red; }
+.silver { color: silver }
+.teal { color: teal; }
+.white { color: white; }
+.yellow { color: yellow; }
