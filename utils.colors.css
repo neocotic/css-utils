@@ -37,23 +37,147 @@
 .right-top { background-position: right top; }
 .scroll-attachment { background-attachment: scroll; }
 /* Background Colors */
-.aqua-background, .aqua-bg { background-color: aqua; }
-.black-background, .black-bg { background-color: black; }
-.blue-background, .blue-bg { background-color: blue; }
-.fuchsia-background, .fuchsia-bg { background-color: fuchsia; }
-.gray-background, .gray-bg { background-color: gray; }
-.green-background, .green-bg { background-color: green; }
-.lime-background, .lime-bg { background-color: lime; }
-.maroon-background, .maroon-bg { background-color: maroon; }
-.navy-background, .navy-bg { background-color: navy; }
-.olive-background, .olive-bg { background-color: olive; }
-.purple-background, .purple-bg { background-color: purple; }
-.red-background, .red-bg { background-color: red; }
-.silver-background, .silver-bg { background-color: silver }
-.teal-background, .teal-bg { background-color: teal; }
+.alice-blue-background, .alice-blue-bg { background-color: #F0F8FF; }
+.antique-white-background, .antique-white-bg { background-color: #FAEBD7; }
+.aqua-background, .aqua-bg { background-color: #00FFFF; }
+.aquamarine-background, .aquamarine-bg { background-color: #7FFFD4; }
+.azure-background, .azure-bg { background-color: #F0FFFF; }
+.beige-background, .beige-bg { background-color: #F5F5DC; }
+.bisque-background, .bisque-bg { background-color: #FFE4C4; }
+.black-background, .black-bg { background-color: #000; }
+.blanched-almond-background, .blanched-almond-bg { background-color: #FFEBCD; }
+.blue-background, .blue-bg { background-color: #0000FF; }
+.blue-violet-background, .blue-violet-bg { background-color: #8A2BE2; }
+.brown-background, .brown-bg { background-color: #A52A2A; }
+.burlywood-background, .burlywood-bg { background-color: #DEB887; }
+.cadet-blue-background, .cadet-blue-bg { background-color: #5F9EA0; }
+.chartreuse-background, .chartreuse-bg { background-color: #7FFF00; }
+.chocolate-background, .chocolate-bg { background-color: #D2691E; }
+.coral-background, .coral-bg { background-color: #FF7F50; }
+.cornflower-blue-background, .cornflower-blue-bg { background-color: #6495ED; }
+.corn-silk-background, .corn-silk-bg { background-color: #FFF8DC; }
+.crimson-background, .crimson-bg { background-color: #DC143C; }
+.cyan-background, .cyan-bg { background-color: #00FFFF; }
+.dark-blue-background, .dark-blue-bg { background-color: #00008B; }
+.dark-cyan-background, .dark-cyan-bg { background-color: #008B8B; }
+.dark-goldenrod-background, .dark-goldenrod-bg { background-color: #B8860B; }
+.dark-gray-background, .dark-gray-bg, .dark-grey-background, .dark-grey-bg { background-color: #A9A9A9; }
+.dark-green-background, .dark-green-bg { background-color: #006400; }
+.dark-khaki-background, .dark-khaki-bg { background-color: #BDB76B; }
+.dark-magenta-background, .dark-magenta-bg { background-color: #8B008B; }
+.dark-olive-green-background, .dark-olive-green-bg { background-color: #556B2F; }
+.dark-orange-background, .dark-orange-bg { background-color: #FF8C00; }
+.dark-orchid-background, .dark-orchid-bg { background-color: #9932CC; }
+.dark-red-background, .dark-red-bg { background-color: #8B0000; }
+.dark-salmon-background, .dark-salmon-bg { background-color: #E9967A; }
+.dark-sea-green-background, .dark-sea-green-bg { background-color: #8FBC8F; }
+.dark-slate-blue-background, .dark-slate-blue-bg { background-color: #483D8B; }
+.dark-slate-gray-background, .dark-slate-gray-bg, .dark-slate-grey-background, .dark-slate-grey-bg { background-color: #2F4F4F; }
+.dark-turquoise-background, .dark-turquoise-bg { background-color: #00CED1; }
+.dark-violet-background, .dark-violet-bg { background-color: #9400D3; }
+.deep-pink-background, .deep-pink-bg { background-color: #FF1493; }
+.deep-sky-blue-background, .deep-sky-blue-bg { background-color: #00BFFF; }
+.dim-gray-background, .dim-gray-bg, .dim-grey-background, .dim-grey-bg { background-color: #696969; }
+.dodger-blue-background, .dodger-blue-bg { background-color: #1E90FF; }
+.fire-brick-background, .fire-brick-bg { background-color: #B22222; }
+.floral-white-background, .floral-white-bg { background-color: #FFFAF0; }
+.forest-green-background, .forest-green-bg { background-color: #228B22; }
+.fuchsia-background, .fuchsia-bg { background-color: #FF00FF; }
+.gainsboro-background, .gainsboro-bg { background-color: #DCDCDC; }
+.ghost-white-background, .ghost-white-bg { background-color: #F8F8FF; }
+.gold-background, .gold-bg { background-color: #FFD700; }
+.goldenrod-background, .goldenrod-bg { background-color: #DAA520; }
+.gray-background, .gray-bg, .grey-background, .grey-bg { background-color: #808080; }
+.green-background, .green-bg { background-color: #008000; }
+.green-yellow-background, .green-yellow-bg { background-color: #ADFF2F; }
+.honeydew-background, .honeydew-bg { background-color: #F0FFF0; }
+.hot-pink-background, .hot-pink-bg { background-color: #FF69B4; }
+.indian-red-background, .indian-red-bg { background-color: #CD5C5C; }
+.indigo-background, .indigo-bg { background-color: #4B0082; }
+.ivory-background, .ivory-bg { background-color: #FFFFF0; }
+.khaki-background, .khaki-bg { background-color: #F0E68C; }
+.lavender-background, .lavender-bg { background-color: #E6E6FA; }
+.lavender-blush-background, .lavender-blush-bg { background-color: #FFF0F5; }
+.lawn-green-background, .lawn-green-bg { background-color: #7CFC00; }
+.lemon-chiffon-background, .lemon-chiffon-bg { background-color: #FFFACD; }
+.light-blue-background, .light-blue-bg { background-color: #ADD8E6; }
+.light-coral-background, .light-coral-bg { background-color: #F08080; }
+.light-cyan-background, .light-cyan-bg { background-color: #E0FFFF; }
+.light-goldenrod-yellow-background, .light-goldenrod-yellow-bg { background-color: #FAFAD2; }
+.light-gray-background, .light-gray-bg, .light-grey-background, .light-grey-bg { background-color: #D3D3D3; }
+.light-green-background, .light-green-bg { background-color: #90EE90; }
+.light-pink-background, .light-pink-bg { background-color: #FFB6C1; }
+.light-salmon-background, .light-salmon-bg { background-color: #FFA07A; }
+.light-sea-green-background, .light-sea-green-bg { background-color: #20B2AA; }
+.light-sky-blue-background, .light-sky-blue-bg { background-color: #87CEFA; }
+.light-slate-gray-background, .light-slate-gray-bg, .light-slate-grey-background, .light-slate-grey-bg { background-color: #778899; }
+.light-steel-blue-background, .light-steel-blue-bg { background-color: #B0C4DE; }
+.light-yellow-background, .light-yellow-bg { background-color: #FFFFE0; }
+.lime-background, .lime-bg { background-color: #00FF00; }
+.lime-green-background, .lime-green-bg { background-color: #32CD32; }
+.linen-background, .linen-bg { background-color: #FAF0E6; }
+.magenta-background, .magenta-bg { background-color: #FF00FF; }
+.maroon-background, .maroon-bg { background-color: #800000; }
+.medium-aquamarine-background, .medium-aquamarine-bg { background-color: #66CDAA; }
+.medium-blue-background, .medium-blue-bg { background-color: #0000CD; }
+.medium-orchid-background, .medium-orchid-bg { background-color: #BA55D3; }
+.medium-purple-background, .medium-purple-bg { background-color: #9370DB; }
+.medium-sea-green-background, .medium-sea-green-bg { background-color: #3CB371; }
+.medium-slate-blue-background, .medium-slate-blue-bg { background-color: #7B68EE; }
+.medium-spring-green-background, .medium-spring-green-bg { background-color: #00FA9A; }
+.medium-turquoise-background, .medium-turquoise-bg { background-color: #48D1CC; }
+.medium-violet-red-background, .medium-violet-red-bg { background-color: #C71585; }
+.midnight-blue-background, .midnight-blue-bg { background-color: #191970; }
+.mint-cream-background, .mint-cream-bg { background-color: #F5FFFA; }
+.misty-rose-background, .misty-rose-bg { background-color: #FFE4E1; }
+.moccasin-background, .moccasin-bg { background-color: #FFE4B5; }
+.navajo-white-background, .navajo-white-bg { background-color: #FFDEAD; }
+.navy-background, .navy-bg { background-color: #000080; }
+.old-lace-background, .old-lace-bg { background-color: #FDF5E6; }
+.olive-background, .olive-bg { background-color: #808000; }
+.olive-drab-background, .olive-drab-bg { background-color: #6B8E23; }
+.orange-background, .orange-bg { background-color: #FFA500; }
+.orange-red-background, .orange-red-bg { background-color: #FF4500; }
+.orchid-background, .orchid-bg { background-color: #DA70D6; }
+.pale-goldenrod-background, .pale-goldenrod-bg { background-color: #EEE8AA; }
+.pale-green-background, .pale-green-bg { background-color: #98FB98; }
+.pale-turquoise-background, .pale-turquoise-bg { background-color: #AFEEEE; }
+.pale-violet-red-background, .pale-violet-red-bg { background-color: #DB7093; }
+.papaya-whip-background, .papaya-whip-bg { background-color: #FFEFD5; }
+.peach-puff-background, .peach-puff-bg { background-color: #FFDAB9; }
+.peru-background, .peru-bg { background-color: #CD853F; }
+.pink-background, .pink-bg { background-color: #FFC0CB; }
+.plum-background, .plum-bg { background-color: #DDA0DD; }
+.powder-blue-background, .powder-blue-bg { background-color: #B0E0E6; }
+.purple-background, .purple-bg { background-color: #800080; }
+.red-background, .red-bg { background-color: #FF0000; }
+.rosy-brown-background, .rosy-brown-bg { background-color: #BC8F8F; }
+.royal-blue-background, .royal-blue-bg { background-color: #4169E1; }
+.saddle-brown-background, .saddle-brown-bg { background-color: #8B4513; }
+.salmon-background, .salmon-bg { background-color: #FA8072; }
+.sandy-brown-background, .sandy-brown-bg { background-color: #F4A460; }
+.sea-green-background, .sea-green-bg { background-color: #2E8B57; }
+.sea-shell-background, .sea-shell-bg { background-color: #FFF5EE; }
+.sienna-background, .sienna-bg { background-color: #A0522D; }
+.silver-background, .silver-bg { background-color: #C0C0C0; }
+.sky-blue-background, .sky-blue-bg { background-color: #87CEEB; }
+.slate-blue-background, .slate-blue-bg { background-color: #6A5ACD; }
+.slate-gray-background, .slate-gray-bg, .slate-grey-background, .slate-grey-bg { background-color: #708090; }
+.snow-background, .snow-bg { background-color: #FFFAFA; }
+.spring-green-background, .spring-green-bg { background-color: #00FF7F; }
+.steel-blue-background, .steel-blue-bg { background-color: #4682B4; }
+.tan-background, .tan-bg { background-color: #D2B48C; }
+.teal-background, .teal-bg { background-color: #008080; }
+.thistle-background, .thistle-bg { background-color: #D8BFD8; }
+.tomato-background, .tomato-bg { background-color: #FF6347; }
 .transparent-background, .transparent-bg { background-color: transparent; }
-.white-background, .white-bg { background-color: white; }
-.yellow-background, .yellow-bg { background-color: yellow; }
+.turquoise-background, .turquoise-bg { background-color: #40E0D0; }
+.violet-background, .violet-bg { background-color: #EE82EE; }
+.wheat-background, .wheat-bg { background-color: #F5DEB3; }
+.white-background, .white-bg { background-color: #FFF; }
+.white-smoke-background, .white-smoke-bg { background-color: #F5F5F5; }
+.yellow-background, .yellow-bg { background-color: #FFFF00; }
+.yellow-green-background, .yellow-green-bg { background-color: #9ACD32; }
 /* Border */
 .dashed-border { border-style: dashed; }
 .dotted-border { border-style: dotted; }
@@ -85,23 +209,147 @@
 .thin-border-right { border-right-width: thin; }
 .thin-border-top { border-top-width: thin; }
 /* Border Colors */
-.aqua-border { border-color: aqua; }
-.black-border { border-color: black; }
-.blue-border { border-color: blue; }
-.fuchsia-border { border-color: fuchsia; }
-.gray-border { border-color: gray; }
-.green-border { border-color: green; }
-.lime-border { border-color: lime; }
-.maroon-border { border-color: maroon; }
-.navy-border { border-color: navy; }
-.olive-border { border-color: olive; }
-.purple-border { border-color: purple; }
-.red-border { border-color: red; }
-.silver-border { border-color: silver }
-.teal-border { border-color: teal; }
+.alice-blue-border { border-color: #F0F8FF; }
+.antique-white-border { border-color: #FAEBD7; }
+.aqua-border { border-color: #00FFFF; }
+.aquamarine-border { border-color: #7FFFD4; }
+.azure-border { border-color: #F0FFFF; }
+.beige-border { border-color: #F5F5DC; }
+.bisque-border { border-color: #FFE4C4; }
+.black-border { border-color: #000; }
+.blanched-almond-border { border-color: #FFEBCD; }
+.blue-border { border-color: #0000FF; }
+.blue-violet-border { border-color: #8A2BE2; }
+.brown-border { border-color: #A52A2A; }
+.burlywood-border { border-color: #DEB887; }
+.cadet-blue-border { border-color: #5F9EA0; }
+.chartreuse-border { border-color: #7FFF00; }
+.chocolate-border { border-color: #D2691E; }
+.coral-border { border-color: #FF7F50; }
+.cornflower-blue-border { border-color: #6495ED; }
+.corn-silk-border { border-color: #FFF8DC; }
+.crimson-border { border-color: #DC143C; }
+.cyan-border { border-color: #00FFFF; }
+.dark-blue-border { border-color: #00008B; }
+.dark-cyan-border { border-color: #008B8B; }
+.dark-goldenrod-border { border-color: #B8860B; }
+.dark-gray-border, .dark-grey-border { border-color: #A9A9A9; }
+.dark-green-border { border-color: #006400; }
+.dark-khaki-border { border-color: #BDB76B; }
+.dark-magenta-border { border-color: #8B008B; }
+.dark-olive-green-border { border-color: #556B2F; }
+.dark-orange-border { border-color: #FF8C00; }
+.dark-orchid-border { border-color: #9932CC; }
+.dark-red-border { border-color: #8B0000; }
+.dark-salmon-border { border-color: #E9967A; }
+.dark-sea-green-border { border-color: #8FBC8F; }
+.dark-slate-blue-border { border-color: #483D8B; }
+.dark-slate-gray-border, .dark-slate-grey-border { border-color: #2F4F4F; }
+.dark-turquoise-border { border-color: #00CED1; }
+.dark-violet-border { border-color: #9400D3; }
+.deep-pink-border { border-color: #FF1493; }
+.deep-sky-blue-border { border-color: #00BFFF; }
+.dim-gray-border, .dim-grey-border { border-color: #696969; }
+.dodger-blue-border { border-color: #1E90FF; }
+.fire-brick-border { border-color: #B22222; }
+.floral-white-border { border-color: #FFFAF0; }
+.forest-green-border { border-color: #228B22; }
+.fuchsia-border { border-color: #FF00FF; }
+.gainsboro-border { border-color: #DCDCDC; }
+.ghost-white-border { border-color: #F8F8FF; }
+.gold-border { border-color: #FFD700; }
+.goldenrod-border { border-color: #DAA520; }
+.gray-border, .grey-border { border-color: #808080; }
+.green-border { border-color: #008000; }
+.green-yellow-border { border-color: #ADFF2F; }
+.honeydew-border { border-color: #F0FFF0; }
+.hot-pink-border { border-color: #FF69B4; }
+.indian-red-border { border-color: #CD5C5C; }
+.indigo-border { border-color: #4B0082; }
+.ivory-border { border-color: #FFFFF0; }
+.khaki-border { border-color: #F0E68C; }
+.lavender-border { border-color: #E6E6FA; }
+.lavender-blush-border { border-color: #FFF0F5; }
+.lawn-green-border { border-color: #7CFC00; }
+.lemon-chiffon-border { border-color: #FFFACD; }
+.light-blue-border { border-color: #ADD8E6; }
+.light-coral-border { border-color: #F08080; }
+.light-cyan-border { border-color: #E0FFFF; }
+.light-goldenrod-yellow-border { border-color: #FAFAD2; }
+.light-gray-border, .light-grey-border { border-color: #D3D3D3; }
+.light-green-border { border-color: #90EE90; }
+.light-pink-border { border-color: #FFB6C1; }
+.light-salmon-border { border-color: #FFA07A; }
+.light-sea-green-border { border-color: #20B2AA; }
+.light-sky-blue-border { border-color: #87CEFA; }
+.light-slate-gray-border, .light-slate-grey-border { border-color: #778899; }
+.light-steel-blue-border { border-color: #B0C4DE; }
+.light-yellow-border { border-color: #FFFFE0; }
+.lime-border { border-color: #00FF00; }
+.lime-green-border { border-color: #32CD32; }
+.linen-border { border-color: #FAF0E6; }
+.magenta-border { border-color: #FF00FF; }
+.maroon-border { border-color: #800000; }
+.medium-aquamarine-border { border-color: #66CDAA; }
+.medium-blue-border { border-color: #0000CD; }
+.medium-orchid-border { border-color: #BA55D3; }
+.medium-purple-border { border-color: #9370DB; }
+.medium-sea-green-border { border-color: #3CB371; }
+.medium-slate-blue-border { border-color: #7B68EE; }
+.medium-spring-green-border { border-color: #00FA9A; }
+.medium-turquoise-border { border-color: #48D1CC; }
+.medium-violet-red-border { border-color: #C71585; }
+.midnight-blue-border { border-color: #191970; }
+.mint-cream-border { border-color: #F5FFFA; }
+.misty-rose-border { border-color: #FFE4E1; }
+.moccasin-border { border-color: #FFE4B5; }
+.navajo-white-border { border-color: #FFDEAD; }
+.navy-border { border-color: #000080; }
+.old-lace-border { border-color: #FDF5E6; }
+.olive-border { border-color: #808000; }
+.olive-drab-border { border-color: #6B8E23; }
+.orange-border { border-color: #FFA500; }
+.orange-red-border { border-color: #FF4500; }
+.orchid-border { border-color: #DA70D6; }
+.pale-goldenrod-border { border-color: #EEE8AA; }
+.pale-green-border { border-color: #98FB98; }
+.pale-turquoise-border { border-color: #AFEEEE; }
+.pale-violet-red-border { border-color: #DB7093; }
+.papaya-whip-border { border-color: #FFEFD5; }
+.peach-puff-border { border-color: #FFDAB9; }
+.peru-border { border-color: #CD853F; }
+.pink-border { border-color: #FFC0CB; }
+.plum-border { border-color: #DDA0DD; }
+.powder-blue-border { border-color: #B0E0E6; }
+.purple-border { border-color: #800080; }
+.red-border { border-color: #FF0000; }
+.rosy-brown-border { border-color: #BC8F8F; }
+.royal-blue-border { border-color: #4169E1; }
+.saddle-brown-border { border-color: #8B4513; }
+.salmon-border { border-color: #FA8072; }
+.sandy-brown-border { border-color: #F4A460; }
+.sea-green-border { border-color: #2E8B57; }
+.sea-shell-border { border-color: #FFF5EE; }
+.sienna-border { border-color: #A0522D; }
+.silver-border { border-color: #C0C0C0; }
+.sky-blue-border { border-color: #87CEEB; }
+.slate-blue-border { border-color: #6A5ACD; }
+.slate-gray-border, .slate-grey-border { border-color: #708090; }
+.snow-border { border-color: #FFFAFA; }
+.spring-green-border { border-color: #00FF7F; }
+.steel-blue-border { border-color: #4682B4; }
+.tan-border { border-color: #D2B48C; }
+.teal-border { border-color: #008080; }
+.thistle-border { border-color: #D8BFD8; }
+.tomato-border { border-color: #FF6347; }
 .transparent-border { border-color: transparent; }
-.white-border { border-color: white; }
-.yellow-border { border-color: yellow; }
+.turquoise-border { border-color: #40E0D0; }
+.violet-border { border-color: #EE82EE; }
+.wheat-border { border-color: #F5DEB3; }
+.white-border { border-color: #FFF; }
+.white-smoke-border { border-color: #F5F5F5; }
+.yellow-border { border-color: #FFFF00; }
+.yellow-green-border { border-color: #9ACD32; }
 /* Box */
 .border-box-sizing { box-sizing: border-box; }
 .content-box-sizing { box-sizing: content-box; }
@@ -253,25 +501,148 @@
 .thick-outline { outline-width: thick; }
 .thin-outline { outline-width: thin; }
 /* Outline Colors */
-.aqua-outline { outline-color: aqua; }
-.black-outline { outline-color: black; }
-.blue-outline { outline-color: blue; }
-.fuchsia-outline { outline-color: fuchsia; }
-.gray-outline { outline-color: gray; }
-.green-outline { outline-color: green; }
+.alice-blue-outline { outline-color: #F0F8FF; }
+.antique-white-outline { outline-color: #FAEBD7; }
+.aqua-outline { outline-color: #00FFFF; }
+.aquamarine-outline { outline-color: #7FFFD4; }
+.azure-outline { outline-color: #F0FFFF; }
+.beige-outline { outline-color: #F5F5DC; }
+.bisque-outline { outline-color: #FFE4C4; }
+.black-outline { outline-color: #000; }
+.blanched-almond-outline { outline-color: #FFEBCD; }
+.blue-outline { outline-color: #0000FF; }
+.blue-violet-outline { outline-color: #8A2BE2; }
+.brown-outline { outline-color: #A52A2A; }
+.burlywood-outline { outline-color: #DEB887; }
+.cadet-blue-outline { outline-color: #5F9EA0; }
+.chartreuse-outline { outline-color: #7FFF00; }
+.chocolate-outline { outline-color: #D2691E; }
+.coral-outline { outline-color: #FF7F50; }
+.cornflower-blue-outline { outline-color: #6495ED; }
+.corn-silk-outline { outline-color: #FFF8DC; }
+.crimson-outline { outline-color: #DC143C; }
+.cyan-outline { outline-color: #00FFFF; }
+.dark-blue-outline { outline-color: #00008B; }
+.dark-cyan-outline { outline-color: #008B8B; }
+.dark-goldenrod-outline { outline-color: #B8860B; }
+.dark-gray-outline, .dark-grey-outline { outline-color: #A9A9A9; }
+.dark-green-outline { outline-color: #006400; }
+.dark-khaki-outline { outline-color: #BDB76B; }
+.dark-magenta-outline { outline-color: #8B008B; }
+.dark-olive-green-outline { outline-color: #556B2F; }
+.dark-orange-outline { outline-color: #FF8C00; }
+.dark-orchid-outline { outline-color: #9932CC; }
+.dark-red-outline { outline-color: #8B0000; }
+.dark-salmon-outline { outline-color: #E9967A; }
+.dark-sea-green-outline { outline-color: #8FBC8F; }
+.dark-slate-blue-outline { outline-color: #483D8B; }
+.dark-slate-gray-outline, .dark-slate-grey-outline { outline-color: #2F4F4F; }
+.dark-turquoise-outline { outline-color: #00CED1; }
+.dark-violet-outline { outline-color: #9400D3; }
+.deep-pink-outline { outline-color: #FF1493; }
+.deep-sky-blue-outline { outline-color: #00BFFF; }
+.dim-gray-outline, .dim-grey-outline { outline-color: #696969; }
+.dodger-blue-outline { outline-color: #1E90FF; }
+.fire-brick-outline { outline-color: #B22222; }
+.floral-white-outline { outline-color: #FFFAF0; }
+.forest-green-outline { outline-color: #228B22; }
+.fuchsia-outline { outline-color: #FF00FF; }
+.gainsboro-outline { outline-color: #DCDCDC; }
+.ghost-white-outline { outline-color: #F8F8FF; }
+.gold-outline { outline-color: #FFD700; }
+.goldenrod-outline { outline-color: #DAA520; }
+.gray-outline, .grey-outline { outline-color: #808080; }
+.green-outline { outline-color: #008000; }
+.green-yellow-outline { outline-color: #ADFF2F; }
+.honeydew-outline { outline-color: #F0FFF0; }
+.hot-pink-outline { outline-color: #FF69B4; }
+.indian-red-outline { outline-color: #CD5C5C; }
+.indigo-outline { outline-color: #4B0082; }
 .invert-outline { outline-color: invert; }
-.lime-outline { outline-color: lime; }
-.maroon-outline { outline-color: maroon; }
-.medium-outline { outline-width: medium; }
-.navy-outline { outline-color: navy; }
-.olive-outline { outline-color: olive; }
-.purple-outline { outline-color: purple; }
-.red-outline { outline-color: red; }
-.silver-outline { outline-color: silver }
-.teal-outline { outline-color: teal; }
+.ivory-outline { outline-color: #FFFFF0; }
+.khaki-outline { outline-color: #F0E68C; }
+.lavender-outline { outline-color: #E6E6FA; }
+.lavender-blush-outline { outline-color: #FFF0F5; }
+.lawn-green-outline { outline-color: #7CFC00; }
+.lemon-chiffon-outline { outline-color: #FFFACD; }
+.light-blue-outline { outline-color: #ADD8E6; }
+.light-coral-outline { outline-color: #F08080; }
+.light-cyan-outline { outline-color: #E0FFFF; }
+.light-goldenrod-yellow-outline { outline-color: #FAFAD2; }
+.light-gray-outline, .light-grey-outline { outline-color: #D3D3D3; }
+.light-green-outline { outline-color: #90EE90; }
+.light-pink-outline { outline-color: #FFB6C1; }
+.light-salmon-outline { outline-color: #FFA07A; }
+.light-sea-green-outline { outline-color: #20B2AA; }
+.light-sky-blue-outline { outline-color: #87CEFA; }
+.light-slate-gray-outline, .light-slate-grey-outline { outline-color: #778899; }
+.light-steel-blue-outline { outline-color: #B0C4DE; }
+.light-yellow-outline { outline-color: #FFFFE0; }
+.lime-outline { outline-color: #00FF00; }
+.lime-green-outline { outline-color: #32CD32; }
+.linen-outline { outline-color: #FAF0E6; }
+.magenta-outline { outline-color: #FF00FF; }
+.maroon-outline { outline-color: #800000; }
+.medium-aquamarine-outline { outline-color: #66CDAA; }
+.medium-blue-outline { outline-color: #0000CD; }
+.medium-orchid-outline { outline-color: #BA55D3; }
+.medium-purple-outline { outline-color: #9370DB; }
+.medium-sea-green-outline { outline-color: #3CB371; }
+.medium-slate-blue-outline { outline-color: #7B68EE; }
+.medium-spring-green-outline { outline-color: #00FA9A; }
+.medium-turquoise-outline { outline-color: #48D1CC; }
+.medium-violet-red-outline { outline-color: #C71585; }
+.midnight-blue-outline { outline-color: #191970; }
+.mint-cream-outline { outline-color: #F5FFFA; }
+.misty-rose-outline { outline-color: #FFE4E1; }
+.moccasin-outline { outline-color: #FFE4B5; }
+.navajo-white-outline { outline-color: #FFDEAD; }
+.navy-outline { outline-color: #000080; }
+.old-lace-outline { outline-color: #FDF5E6; }
+.olive-outline { outline-color: #808000; }
+.olive-drab-outline { outline-color: #6B8E23; }
+.orange-outline { outline-color: #FFA500; }
+.orange-red-outline { outline-color: #FF4500; }
+.orchid-outline { outline-color: #DA70D6; }
+.pale-goldenrod-outline { outline-color: #EEE8AA; }
+.pale-green-outline { outline-color: #98FB98; }
+.pale-turquoise-outline { outline-color: #AFEEEE; }
+.pale-violet-red-outline { outline-color: #DB7093; }
+.papaya-whip-outline { outline-color: #FFEFD5; }
+.peach-puff-outline { outline-color: #FFDAB9; }
+.peru-outline { outline-color: #CD853F; }
+.pink-outline { outline-color: #FFC0CB; }
+.plum-outline { outline-color: #DDA0DD; }
+.powder-blue-outline { outline-color: #B0E0E6; }
+.purple-outline { outline-color: #800080; }
+.red-outline { outline-color: #FF0000; }
+.rosy-brown-outline { outline-color: #BC8F8F; }
+.royal-blue-outline { outline-color: #4169E1; }
+.saddle-brown-outline { outline-color: #8B4513; }
+.salmon-outline { outline-color: #FA8072; }
+.sandy-brown-outline { outline-color: #F4A460; }
+.sea-green-outline { outline-color: #2E8B57; }
+.sea-shell-outline { outline-color: #FFF5EE; }
+.sienna-outline { outline-color: #A0522D; }
+.silver-outline { outline-color: #C0C0C0; }
+.sky-blue-outline { outline-color: #87CEEB; }
+.slate-blue-outline { outline-color: #6A5ACD; }
+.slate-gray-outline, .slate-grey-outline { outline-color: #708090; }
+.snow-outline { outline-color: #FFFAFA; }
+.spring-green-outline { outline-color: #00FF7F; }
+.steel-blue-outline { outline-color: #4682B4; }
+.tan-outline { outline-color: #D2B48C; }
+.teal-outline { outline-color: #008080; }
+.thistle-outline { outline-color: #D8BFD8; }
+.tomato-outline { outline-color: #FF6347; }
 .transparent-outline { outline-color: transparent; }
-.white-outline { outline-color: white; }
-.yellow-outline { outline-color: yellow; }
+.turquoise-outline { outline-color: #40E0D0; }
+.violet-outline { outline-color: #EE82EE; }
+.wheat-outline { outline-color: #F5DEB3; }
+.white-outline { outline-color: #FFF; }
+.white-smoke-outline { outline-color: #F5F5F5; }
+.yellow-outline { outline-color: #FFFF00; }
+.yellow-green-outline { outline-color: #9ACD32; }
 /* Padding */
 .no-bottom-padding { padding-bottom: 0; }
 .no-horizontal-padding { padding-left: 0; padding-right: 0; }
@@ -316,19 +687,144 @@
 .underline { text-decoration: underline; }
 .uppercase { text-transform: uppercase; }
 /* Text Colors */
-.aqua { color: aqua; }
-.black { color: black; }
-.blue { color: blue; }
-.fuchsia { color: fuchsia; }
-.gray { color: gray; }
-.green { color: green; }
-.lime { color: lime; }
-.maroon { color: maroon; }
-.navy { color: navy; }
-.olive { color: olive; }
-.purple { color: purple; }
-.red { color: red; }
-.silver { color: silver }
-.teal { color: teal; }
-.white { color: white; }
-.yellow { color: yellow; }
+.alice-blue { color: #F0F8FF; }
+.antique-white { color: #FAEBD7; }
+.aqua { color: #00FFFF; }
+.aquamarine { color: #7FFFD4; }
+.azure { color: #F0FFFF; }
+.beige { color: #F5F5DC; }
+.bisque { color: #FFE4C4; }
+.black { color: #000; }
+.blanched-almond { color: #FFEBCD; }
+.blue { color: #0000FF; }
+.blue-violet { color: #8A2BE2; }
+.brown { color: #A52A2A; }
+.burlywood { color: #DEB887; }
+.cadet-blue { color: #5F9EA0; }
+.chartreuse { color: #7FFF00; }
+.chocolate { color: #D2691E; }
+.coral { color: #FF7F50; }
+.cornflower-blue { color: #6495ED; }
+.corn-silk { color: #FFF8DC; }
+.crimson { color: #DC143C; }
+.cyan { color: #00FFFF; }
+.dark-blue { color: #00008B; }
+.dark-cyan { color: #008B8B; }
+.dark-goldenrod { color: #B8860B; }
+.dark-gray, .dark-grey { color: #A9A9A9; }
+.dark-green { color: #006400; }
+.dark-khaki { color: #BDB76B; }
+.dark-magenta { color: #8B008B; }
+.dark-olive-green { color: #556B2F; }
+.dark-orange { color: #FF8C00; }
+.dark-orchid { color: #9932CC; }
+.dark-red { color: #8B0000; }
+.dark-salmon { color: #E9967A; }
+.dark-sea-green { color: #8FBC8F; }
+.dark-slate-blue { color: #483D8B; }
+.dark-slate-gray, .dark-slate-grey { color: #2F4F4F; }
+.dark-turquoise { color: #00CED1; }
+.dark-violet { color: #9400D3; }
+.deep-pink { color: #FF1493; }
+.deep-sky-blue { color: #00BFFF; }
+.dim-gray, .dim-grey { color: #696969; }
+.dodger-blue { color: #1E90FF; }
+.fire-brick { color: #B22222; }
+.floral-white { color: #FFFAF0; }
+.forest-green { color: #228B22; }
+.fuchsia { color: #FF00FF; }
+.gainsboro { color: #DCDCDC; }
+.ghost-white { color: #F8F8FF; }
+.gold { color: #FFD700; }
+.goldenrod { color: #DAA520; }
+.gray, .grey { color: #808080; }
+.green { color: #008000; }
+.green-yellow { color: #ADFF2F; }
+.honeydew { color: #F0FFF0; }
+.hot-pink { color: #FF69B4; }
+.indian-red { color: #CD5C5C; }
+.indigo { color: #4B0082; }
+.ivory { color: #FFFFF0; }
+.khaki { color: #F0E68C; }
+.lavender { color: #E6E6FA; }
+.lavender-blush { color: #FFF0F5; }
+.lawn-green { color: #7CFC00; }
+.lemon-chiffon { color: #FFFACD; }
+.light-blue { color: #ADD8E6; }
+.light-coral { color: #F08080; }
+.light-cyan { color: #E0FFFF; }
+.light-goldenrod-yellow { color: #FAFAD2; }
+.light-gray, .light-grey { color: #D3D3D3; }
+.light-green { color: #90EE90; }
+.light-pink { color: #FFB6C1; }
+.light-salmon { color: #FFA07A; }
+.light-sea-green { color: #20B2AA; }
+.light-sky-blue { color: #87CEFA; }
+.light-slate-gray, .light-slate-grey { color: #778899; }
+.light-steel-blue { color: #B0C4DE; }
+.light-yellow { color: #FFFFE0; }
+.lime { color: #00FF00; }
+.lime-green { color: #32CD32; }
+.linen { color: #FAF0E6; }
+.magenta { color: #FF00FF; }
+.maroon { color: #800000; }
+.medium-aquamarine { color: #66CDAA; }
+.medium-blue { color: #0000CD; }
+.medium-orchid { color: #BA55D3; }
+.medium-purple { color: #9370DB; }
+.medium-sea-green { color: #3CB371; }
+.medium-slate-blue { color: #7B68EE; }
+.medium-spring-green { color: #00FA9A; }
+.medium-turquoise { color: #48D1CC; }
+.medium-violet-red { color: #C71585; }
+.midnight-blue { color: #191970; }
+.mint-cream { color: #F5FFFA; }
+.misty-rose { color: #FFE4E1; }
+.moccasin { color: #FFE4B5; }
+.navajo-white { color: #FFDEAD; }
+.navy { color: #000080; }
+.old-lace { color: #FDF5E6; }
+.olive { color: #808000; }
+.olive-drab { color: #6B8E23; }
+.orange { color: #FFA500; }
+.orange-red { color: #FF4500; }
+.orchid { color: #DA70D6; }
+.pale-goldenrod { color: #EEE8AA; }
+.pale-green { color: #98FB98; }
+.pale-turquoise { color: #AFEEEE; }
+.pale-violet-red { color: #DB7093; }
+.papaya-whip { color: #FFEFD5; }
+.peach-puff { color: #FFDAB9; }
+.peru { color: #CD853F; }
+.pink { color: #FFC0CB; }
+.plum { color: #DDA0DD; }
+.powder-blue { color: #B0E0E6; }
+.purple { color: #800080; }
+.red { color: #FF0000; }
+.rosy-brown { color: #BC8F8F; }
+.royal-blue { color: #4169E1; }
+.saddle-brown { color: #8B4513; }
+.salmon { color: #FA8072; }
+.sandy-brown { color: #F4A460; }
+.sea-green { color: #2E8B57; }
+.sea-shell { color: #FFF5EE; }
+.sienna { color: #A0522D; }
+.silver { color: #C0C0C0; }
+.sky-blue { color: #87CEEB; }
+.slate-blue { color: #6A5ACD; }
+.slate-gray, .slate-grey { color: #708090; }
+.snow { color: #FFFAFA; }
+.spring-green { color: #00FF7F; }
+.steel-blue { color: #4682B4; }
+.tan { color: #D2B48C; }
+.teal { color: #008080; }
+.thistle { color: #D8BFD8; }
+.tomato { color: #FF6347; }
+.transparent { color: transparent; }
+.turquoise { color: #40E0D0; }
+.violet { color: #EE82EE; }
+.wheat { color: #F5DEB3; }
+.white { color: #FFF; }
+.white-smoke { color: #F5F5F5; }
+.yellow { color: #FFFF00; }
+.yellow-green { color: #9ACD32; }
