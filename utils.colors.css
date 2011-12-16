@@ -1,3 +1,10 @@
+/*
+ * css-utils 1.0.0 (with colours)
+ * (c) 2011 Alasdair Mercer
+ * Freely distributable under the MIT license.
+ * For all details and documentation:
+ * http://neocotic.com/css-utils
+ */
 /* Alignment */
 .baseline { vertical-align: baseline; }
 .bottom { vertical-align: bottom; }
